@@ -43,7 +43,7 @@ Converts test data from [Polygon](https://polygon.codeforces.com) Full packages 
 ### Option 2: Run from Source
 
 ```bash
-git clone https://github.com/<your-username>/polygonToPintia.git
+git clone https://github.com/neetman2005/polygon-to-pintia.git
 cd polygonToPintia
 pip install -r requirements.txt
 python main.py
