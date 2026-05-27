@@ -2,6 +2,8 @@
 
 Converts test data from [Polygon](https://polygon.codeforces.com) Full packages into [Pintia (PTA)](https://pintia.cn) compatible format.
 
+> ⚠️ **Currently Windows only.**
+
 ---
 
 ## 📖 Full Workflow

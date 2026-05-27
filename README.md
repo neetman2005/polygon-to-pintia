@@ -2,6 +2,8 @@
 
 将 [Polygon](https://polygon.codeforces.com) 出题平台的测试数据自动转换为 [Pintia（PTA）](https://pintia.cn) 兼容格式。
 
+> ⚠️ **当前仅支持 Windows 系统。**
+
 ---
 
 ## 📖 完整工作流程
